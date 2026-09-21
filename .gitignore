@@ -1,0 +1,7 @@
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 注意：本仓库保留 .trae/rules/ —— 那正是本 demo 的主体内容
